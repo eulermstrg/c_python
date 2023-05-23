@@ -1,0 +1,6 @@
+Polimorfismo 
+    mesmo acionamento para ações diferentes
+
+    print('a' + 'b') = saída (ab)
+    print(1 + 1)     = saída (2)
+    
